@@ -18,7 +18,7 @@
 
 - 🌍 **Location:** Islamabad, Pakistan
 - 🎓 **Education:** Software Engineering @ NUST 
-- 💼 **Current Role:** AL Engineer at Data Insights
+- 💼 **Current Role:** AI Engineer at Data Insights
 - 🧠 **Experience:** 2+ years in AI/ML engineering & scalable web applications
 - 💡 **Passion:** Building E2E intelligent solutions
 
